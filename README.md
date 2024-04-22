@@ -2,23 +2,27 @@
 
 ## Introduction
 
-This project aims to reverse-engineer the hardware design of the Quansheng UV-K5 handheld amateur radio transceiver, specifically focusing on V1.4 of the PCB, which is also used in UV-K5(8) and similar models. The goal is to create a KiCad design that closely resembles the original hardware. Feel free to use this KiCad project to explore more about the mentioned radio or as a starting point for enhancing Quansheng's original design, such as improving RF filtering.
+This project aims to reverse-engineer the hardware design of the Quansheng UV-K5 handheld amateur radio transceiver, specifically focusing on V1.4 of the PCB, which is also used in UV-K5(8) and similar models. The goal was to create a KiCad design that closely resembles the original hardware. Feel free to use this KiCad project to explore more about the mentioned radio or as a starting point for enhancing Quansheng's original design, such as improving RF filtering.
 
-**Thanks!**
+## Thanks!
 
-This project is a community effort, and many people have contributed in various ways (e.g., suggesting make and model of previously unidentified hardware components, component measurements, 3D model creation, reviews, hardware donations, etc.). I particularly want to thank Manuel ([Manuel's GitHub](https://github.com/manujedi)) for donating the PCB and measuring components, and Ludwich ([Ludwich's GitHub](https://github.com/ludwich66)) for thorough documentation (including the wiki) and improving the initial schematic.
+This project is a community effort, and many people have contributed in various ways (e.g., suggesting make and model of previously unidentified hardware components, component measurements, 3D model creation, reviews, hardware donations, etc.). I particularly want to thank Manuel ([Manuel's GitHub](https://github.com/manujedi)) for donating the PCB and measuring components, and Ludwich ([Ludwich's GitHub](https://github.com/ludwich66)) for thorough documentation (including maintaining the wiki) and improving my initial schematic.
 
 ## The Process
 
 Manuel desoldered all components from his PCB after his radio malfunctioned and began measuring them. For components he couldn't measure, he sent them along with his PCB to me.
 
-I measured the remaining components using a nanoVNA.
+I measured the remaining components using a nanoVNA, soldering each to a test board to ensure precise measurements.
+
+<img src="https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9/blob/main/images/vna_measurement.png?raw=true" width="512"/>
 
 All documentation is available here: [Parts](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Parts---Teile). This resource was invaluable during the reverse engineering process.
 
 While we might have encountered measurement errors and may not have chosen the correct component values every time, overall, I believe we've done a decent job. If you spot an error, please inform Ludwich or me.
 
 Afterward, I photographed the PCB to obtain high-resolution images. I also sanded down the PCB to expose the two inner layers, documenting the process here: [PCB Layer Preparation](https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4).
+
+<img src="https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9/blob/main/images/Quansheng_UV-K5_PCB_R51-V1.4_manual_sanding_process.jpeg?raw=true" width="512"/>
 
 I then processed the layer pictures, imported them into the KiCad PCB editor, and aligned everything as accurately as possible. You can still find these pictures in the PCB editor for reference, contributing to the project's size (approximately 60 MB).
 
@@ -33,6 +37,18 @@ Next came the laborious tasks:
 - Connecting the components in the schematics editor
 - Switching to the PCB view, updating it
 - Running DRC on the schematics and PCB and correcting gating issues
+
+All of my work was completed over a period of about three months, mostly on weekends.
+
+## The Results
+
+<img src="https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9/blob/main/images/schematic.png?raw=true" width="512"/>
+
+<img src="https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9/blob/main/images/pcb.png?raw=true" width="512"/>
+
+<img src="https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9/blob/main/images/3D_pcb_front.png?raw=true" width="512"/>
+
+<img src="https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9/blob/main/images/3D_pcb_back.png?raw=true" width="512"/>
 
 ## FAQ
 
