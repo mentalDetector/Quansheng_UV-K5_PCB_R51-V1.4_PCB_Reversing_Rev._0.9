@@ -14,7 +14,7 @@ Manuel desoldered all components from his PCB after his radio malfunctioned and 
 
 I measured the remaining components using a nanoVNA, soldering each to a test board to ensure precise measurements.
 
-<img src="https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9/blob/main/images/vna_measurement.png?raw=true" width="512"/>
+<img src="https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9/blob/main/images/vna_measurement.png?raw=true" width="1024"/>
 
 All documentation is available here: [Parts](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Parts---Teile). This resource was invaluable during the reverse engineering process.
 
@@ -42,13 +42,13 @@ All of my work was completed over a period of about three months, mostly on week
 
 ## The Results
 
-<img src="https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9/blob/main/images/schematic.png?raw=true" width="512"/>
+<img src="https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9/blob/main/images/schematic.png?raw=true" width="1024"/>
 
-<img src="https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9/blob/main/images/pcb.png?raw=true" width="512"/>
+<img src="https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9/blob/main/images/pcb.png?raw=true" width="1024"/>
 
-<img src="https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9/blob/main/images/3D_pcb_front.png?raw=true" width="512"/>
+<img src="https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9/blob/main/images/3D_pcb_front.png?raw=true" width="1024"/>
 
-<img src="https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9/blob/main/images/3D_pcb_back.png?raw=true" width="512"/>
+<img src="https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9/blob/main/images/3D_pcb_back.png?raw=true" width="1024"/>
 
 ## FAQ
 
