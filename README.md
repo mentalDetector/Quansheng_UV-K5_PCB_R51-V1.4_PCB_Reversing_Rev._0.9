@@ -56,21 +56,21 @@ All of my work was completed over a period of about three months, mostly on week
 
 ## FAQ
 
-**Q: Why is this design labeled as Rev. 0.9?**
+**Q: Why is this design labeled as Rev. 0.9?**<br>
 A: I'm not completely satisfied with the current schematics' appearance and plan to transition the project to KiCad 8. Consider this a version for public review, and please provide feedback for improvement.
 
-**Q: Why wasn't the project set up in KiCad 8 from the beginning?**
+**Q: Why wasn't the project set up in KiCad 8 from the beginning?**<br>
 A: KiCad 8 wasn't available when I started the reverse engineering, and I didn't want to switch mid-way.
 
-**Q: The 3D rendering of the PCB is incomplete.**
+**Q: The 3D rendering of the PCB is incomplete.**<br>
 A: Some components lack proper 3D models or have incorrect ones from similar components, causing them to be missing in the PCB's 3D view. If you have .wrl or .stl files to contribute, please let me know.
 
-**Q: Why are there many errors when I run DRC on the PCB?**
+**Q: Why are there many errors when I run DRC on the PCB?**<br>
 A: This project aims to understand the Quansheng UV-K5 radio's hardware design, not to manufacture PCBs directly. You can't use the PCB files for manufacturing without modifications to meet specific manufacturer rules.
 
-**Q: Some PCB tracks aren't routed correctly on the grid.**
+**Q: Some PCB tracks aren't routed correctly on the grid.**<br>
 A: Yes, I'm aware. It was a compromise to complete the project in less time. However, all connections should be accurate.
 
-**Q: Why don't the reference designators in this project line up with those in Ludwich's wiki?**
+**Q: Why don't the reference designators in this project line up with those in Ludwich's wiki?**<br>
 A: I chose not to align them to save time.
 
