@@ -1,0 +1,46 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# SJ1-3525N
+#
+DEF SJ1-3525N J 0 40 Y N 1 L N
+F0 "J" -300 330 50 H V L BNN
+F1 "SJ1-3525N" -300 -400 50 H V L BNN
+F2 "CUI_SJ1-3525N" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "1.05" 0 0 50 H I L BNN "PARTREV"
+F5 "Manufacturer Recommendations" 0 0 50 H I L BNN "STANDARD"
+F6 "6.25 mm" 0 0 50 H I L BNN "MAXIMUM_PACKAGE_HEIGHT"
+F7 "CUI Devices" 0 0 50 H I L BNN "MANUFACTURER"
+DRAW
+P 2 0 0 6 300 200 -150 200 N
+P 2 0 0 6 -150 200 -150 35 N
+P 2 0 0 6 -150 35 -125 35 N
+P 2 0 0 6 -125 35 -125 -140 N
+P 2 0 0 6 -125 -140 -175 -140 N
+P 2 0 0 6 -175 -140 -175 35 N
+P 2 0 0 6 -175 35 -150 35 N
+P 2 0 0 6 300 100 5 100 N
+P 2 0 0 6 5 100 -45 50 N
+P 2 0 0 6 -45 50 -95 100 N
+P 2 0 0 6 300 -200 55 -200 N
+P 2 0 0 6 55 -200 5 -150 N
+P 2 0 0 6 5 -150 -45 -200 N
+P 2 0 0 6 300 -100 150 -100 N
+P 2 0 0 6 150 -100 150 -200 N
+P 2 0 0 6 300 0 150 0 N
+P 2 0 0 6 150 0 150 100 N
+P 4 0 0 6 150 -200 138 -150 163 -150 150 -200 f
+P 4 0 0 6 150 100 163 50 138 50 150 100 f
+S -300 -300 300 300 0 0 10 f
+X ~ 1 500 200 200 L 40 40 0 0 P 
+X ~ 3 500 100 200 L 40 40 0 0 P 
+X ~ 2 500 -200 200 L 40 40 0 0 P 
+X ~ 10 500 -100 200 L 40 40 0 0 P 
+X ~ 11 500 0 200 L 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library

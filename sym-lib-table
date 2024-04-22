@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "UV-K5_Parts")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty/UV-K5_Parts.kicad_sym")(options "")(descr ""))
+)
