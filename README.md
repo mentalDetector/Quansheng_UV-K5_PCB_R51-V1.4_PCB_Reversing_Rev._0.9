@@ -42,7 +42,9 @@ All of my work was completed over a period of about three months, mostly on week
 
 ## The Results
 
+<a href="https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9/blob/main/images/Quansheng_UV-K5_PCB_R51-V1.4_Rev_0.9_Schematic.pdf" target="_blank">
 <img src="https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9/blob/main/images/schematic.png?raw=true" width="1024"/>
+</a>
 
 <img src="https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9/blob/main/images/pcb.png?raw=true" width="1024"/>
 
