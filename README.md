@@ -74,3 +74,10 @@ A: Yes, I'm aware. It was a compromise to complete the project in less time. How
 **Q: Why don't the reference designators in this project line up with those in Ludwich's wiki?**<br>
 A: I chose not to align them to save time.
 
+## Errata
+
+- C192 in the schematics has a wrong value.<br>
+Wrong: 10nF<br>
+Correct: 20 pF<br>
+
+
