@@ -80,4 +80,8 @@ A: I chose not to align them to save time.
 Wrong: 10 nF<br>
 Correct: 20 pF<br>
 
+- C77 is believed to have a wrong value (needs to be verified). [Issue #3](https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9/issues/3)<br>
+Wrong: 120 uF<br>
+Correct: 100 nF<br>
 
+- A more likely make and model of U10 could be [DSA221SDN/DSB221SDN](https://www.kds.info/product/dsb221sdn-c/?mlang=en). [Issue #3](https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9/issues/3)<br>
