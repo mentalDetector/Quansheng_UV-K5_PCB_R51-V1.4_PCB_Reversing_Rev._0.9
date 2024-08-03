@@ -78,7 +78,8 @@ A: I chose not to align them to save time.
 
 - C192 in the schematics has a wrong value.<br>
 Wrong: 10 nF<br>
-Correct: 20 pF<br>
+Correct: 22 pF<br>
+See also [Issue #4](https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9/issues/4).
 
 - C77 is believed to have a wrong value (needs to be verified). [Issue #3](https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9/issues/3)<br>
 Wrong: 120 uF<br>
