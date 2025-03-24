@@ -90,3 +90,5 @@ Correct: 100 nF<br>
 - C76 is believed to have a wrong value (needs to be verified). [Comment on Issue #3](https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9/issues/3#issuecomment-2448954222)<br>
 Wrong: 120 uF<br>
 Correct: 100 nF<br>
+
+- L13 might have an incorrect value in the schematics (needs to be verified). [Comment on Issue #5](https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9/issues/5#issue-2866589727)<br>
