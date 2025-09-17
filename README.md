@@ -92,3 +92,30 @@ Wrong: 120 uF<br>
 Correct: 100 nF<br>
 
 - L13 might have an incorrect value in the schematics (needs to be verified). [Comment on Issue #5](https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9/issues/5#issue-2866589727)<br>
+
+## License
+
+### Hardware
+All hardware design files in this repository (e.g. schematics, PCB layouts, BOMs) are licensed under the **CERN Open Hardware Licence v2 - Strongly Reciprocal (CERN-OHL-S)**.  
+Full text: see [`./LICENSES/CERN-OHL-S-2.0.txt`](./LICENSES/CERN-OHL-S-2.0.txt)
+
+This means, among other things:
+- You are free to use, modify, and distribute the hardware.
+- Any derivative works **must also be released under CERN-OHL-S**.
+- My name must be mentioned as the original author in all redistributions.
+
+### Documentation
+All accompanying text, manuals, images, and other documentation are licensed under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**.  
+Full text: see [`./LICENSES/CC-BY-SA-4.0.txt`](./LICENSES/CC-BY-SA-4.0.txt)
+
+This means, among other things:
+- You are free to use, modify, and distribute the documentation.
+- Any derivative works **must also be released under CC BY-SA**.
+- My name must be mentioned as the original author in all redistributions.
+
+### Attribution
+When redistributing or reusing this project (in whole or in part), please credit it as follows:
+
+Author: mentalDetector 
+Project: Quansheng UV-K5 Reverse Engineering Project  
+Source: [https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9](https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9)
