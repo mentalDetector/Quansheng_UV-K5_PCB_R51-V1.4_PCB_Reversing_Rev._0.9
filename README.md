@@ -97,7 +97,7 @@ Correct: 100 nF<br>
 
 ### Hardware
 All hardware design files in this repository (e.g. schematics, PCB layouts, BOMs) are licensed under the **CERN Open Hardware Licence v2 - Strongly Reciprocal (CERN-OHL-S)**.  
-Full text: see [`./LICENSES/CERN-OHL-S-2.0.txt`](./LICENSES/CERN-OHL-S-2.0.txt)
+Full text: see [`CERN-OHL-S-2.0.txt`](./LICENSES/CERN-OHL-S-2.0.txt)
 
 This means, among other things:
 - You are free to use, modify, and distribute the hardware.
@@ -106,7 +106,7 @@ This means, among other things:
 
 ### Documentation
 All accompanying text, manuals, images, and other documentation are licensed under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**.  
-Full text: see [`./LICENSES/CC-BY-SA-4.0.txt`](./LICENSES/CC-BY-SA-4.0.txt)
+Full text: see [`CC-BY-SA-4.0.txt`](./LICENSES/CC-BY-SA-4.0.txt)
 
 This means, among other things:
 - You are free to use, modify, and distribute the documentation.
