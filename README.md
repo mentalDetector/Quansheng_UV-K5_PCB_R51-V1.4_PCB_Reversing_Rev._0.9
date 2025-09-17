@@ -1,4 +1,4 @@
-# Quansheng UV-K5 Reverse Engineering Project
+# Quansheng UV-K5 Hardware Reverse Engineering Project
 
 ## Introduction
 
@@ -116,6 +116,6 @@ This means, among other things:
 ### Attribution
 When redistributing or reusing this project (in whole or in part), please credit it as follows:
 
-Author: mentalDetector 
-Project: Quansheng UV-K5 Reverse Engineering Project  
+Author: mentalDetector<br>
+Project: Quansheng UV-K5 Hardware Reverse Engineering Project<br>
 Source: [https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9](https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9)
